@@ -1,4 +1,4 @@
-# 📋 Diseño y Desarrollo de Encuestas
+# 📋 Diseño y Desarrollo de Encuestas.
 
 Repositorio del curso de **Diseño y Desarrollo de Encuestas**, de la Universidad Nacional de Colombia, Facultad de Ciencias — Departamento de Estadística. En este repositorio se incluyen diapositivas, guías, ejemplos, recursos en R y contenidos de apoyo para el aprendizaje de las cuatro fases de una operación estadística por encuesta.
 
