@@ -89,8 +89,8 @@ Antes de abordar los ejercicios computacionales del curso, se recomienda revisar
 
 | Tema                                    | Material de apoyo | Material de clase |
 | :--------------------------------------- | :----------------: | :-----------------: |
-| Fase de planeación                       | --                  | Próximamente         |
-| Diseño de la operación estadística       | --                  | Próximamente         |
+| Fase de planeación                       | --                  | En moodle         |
+| Diseño de la operación estadística       | --                  | [Evaluación de impacto](https://jgbabativam.github.io/DisEncuestas/8.Experimental.html)       |
 | Ejecución y procesamiento                | --                  | Próximamente         |
 | Análisis y divulgación                   | --                  | Próximamente         |
 
