@@ -91,8 +91,8 @@ Antes de abordar los ejercicios computacionales del curso, se recomienda revisar
 | :--------------------------------------- | :----------------: | :-----------------: |
 | Fase de planeación                       | --                  | En moodle         |
 | Diseño de la operación estadística       | --                  | [Evaluación de impacto](https://jgbabativam.github.io/DisEncuestas/8.Experimental.html)       |
-| Ejecución y procesamiento                | --                  | Próximamente         |
-| Análisis y divulgación                   | --                  | Próximamente         |
+| Diseño de cuestionarios                | --                  | [Cuestionarios](https://jgbabativam.github.io/DisEncuestas/9.DisenoCuestionarios.html)               |
+| Fiabilidad y validez                   | --                  | [Fiabilidad](https://jgbabativam.github.io/DisEncuestas/10.FiabilidadValidez.html)               |
 
 ---
 
